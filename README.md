@@ -1,0 +1,1 @@
+# cosine_adaptive_JPEG_Q_matrix
